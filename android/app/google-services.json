@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "834634231354",
+    "firebase_url": "https://rpm-bitdoglab-default-rtdb.firebaseio.com",
+    "project_id": "rpm-bitdoglab",
+    "storage_bucket": "rpm-bitdoglab.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:834634231354:android:1c0314f188100f49368f03",
+        "android_client_info": {
+          "package_name": "com.appgranja.app_granja"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYzfBw6K7hlsWSMXNfcF0_jTkt09f_tR4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
