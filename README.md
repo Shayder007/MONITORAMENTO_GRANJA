@@ -39,17 +39,17 @@ Realizar monitoramento por galpão e reduzir quebras nas linhas de produção de
 
 | Tela Inicial | Menu Principal | Galpões |
 |:---:|:---:|:---:|
-| ![Sobre Nós](https://raw.githubusercontent.com/seu-usuario/app_granja/main/screenshots/01_home.png) | ![Menu](https://raw.githubusercontent.com/seu-usuario/app_granja/main/screenshots/02_menu.png) | ![Galpões](https://raw.githubusercontent.com/seu-usuario/app_granja/main/screenshots/03_galpoes.png) |
+| ![Sobre Nós](./screenshots/01_sobre_nos.png) | ![Menu](./screenshots/02_menu.png) | ![Galpões](./screenshots/03_galpoes.png) |
 | Tela inicial com informações sobre a aplicação | Drawer com opções de navegação | Lista de galpões cadastrados |
 
-| Detalhes do Galpão | Dashboard em Tempo Real | Gráfico de RPM |
+| Detalhes do Galpão | Dashboard do Galpão | Detalhes da Linha |
 |:---:|:---:|:---:|
-| ![Galpão A](https://raw.githubusercontent.com/seu-usuario/app_granja/main/screenshots/04_galpao.png) | ![Dashboard A](https://raw.githubusercontent.com/seu-usuario/app_granja/main/screenshots/05_dashboard_a.png) | ![Dashboard Linha](https://raw.githubusercontent.com/seu-usuario/app_granja/main/screenshots/06_dashboard_linha.png) |
+| ![Galpão A](./screenshots/04_galpao_a.png) | ![Dashboard Galpão](./screenshots/05_dashboard_galpao.png) | ![Linha Primária](./screenshots/06_dashboard_linha_primaria.png) |
 | Visualização de linhas do galpão | Dashboard com dados em tempo real | Gráfico histórico de medições |
 
 | Alertas | Manutenções | Registrar Manutenção |
 |:---:|:---:|:---:|
-| ![Alertas](https://raw.githubusercontent.com/seu-usuario/app_granja/main/screenshots/07_alertas.png) | ![Manutenções](https://raw.githubusercontent.com/seu-usuario/app_granja/main/screenshots/08_manutencoes.png) | ![Registrar](https://raw.githubusercontent.com/seu-usuario/app_granja/main/screenshots/09_registrar_manutencao.png) |
+| ![Alertas](./screenshots/07_alertas.png) | ![Manutenções](./screenshots/08_manutencoes.png) | ![Registrar](./screenshots/09_registrar_manutencao.png) |
 | Sistema de notificações e alertas | Histórico de manutenções realizadas | Formulário para registrar manutenção |
 
 ---
@@ -290,19 +290,6 @@ flutter run
 
 ---
 
-## 📄 Licença
-
-Este projeto está licenciado sob a **MIT License**. Veja o arquivo [LICENSE](LICENSE) para detalhes.
-
----
-
-## 📞 Suporte
-
-- 📧 **Email**: seu-email@example.com
-- 🐛 **Issues**: [GitHub Issues](https://github.com/seu-usuario/app_granja/issues)
-- 💬 **Discussions**: [GitHub Discussions](https://github.com/seu-usuario/app_granja/discussions)
-
----
 
 ## 🙏 Agradecimentos
 
