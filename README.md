@@ -39,18 +39,18 @@ Realizar monitoramento por galpão e reduzir quebras nas linhas de produção de
 
 | Tela Inicial | Menu Principal | Galpões |
 |:---:|:---:|:---:|
-| ![Sobre Nós](./screenshots/01_sobre_nos.png) | ![Menu](./screenshots/02_menu.png) | ![Galpões](./screenshots/03_galpoes.png) |
+| ![Tela Inicial](./screenshots/TELA%20INICIAL.PNG) | ![Opções de Menu](./screenshots/OPCOES%20DE%20MENU.PNG) | ![Tela do Galpão](./screenshots/TELA%20DO%20GALPAO.PNG) |
 | Tela inicial com informações sobre a aplicação | Drawer com opções de navegação | Lista de galpões cadastrados |
 
-| Detalhes do Galpão | Dashboard do Galpão | Detalhes da Linha |
+| Dashboard do Galpão | Linha Funcional | Alertas |
 |:---:|:---:|:---:|
-| ![Galpão A](./screenshots/04_galpao_a.png) | ![Dashboard Galpão](./screenshots/05_dashboard_galpao.png) | ![Linha Primária](./screenshots/06_dashboard_linha_primaria.png) |
-| Visualização de linhas do galpão | Dashboard com dados em tempo real | Gráfico histórico de medições |
+| ![Dashboard Galpão](./screenshots/TELA%20DE%20DASHBOARD%20DO%20GALPAO.PNG) | ![Linha Funcional](./screenshots/DASHBOARD%20LINHA%20FUNCIONAL.PNG) | ![Alertas](./screenshots/TELA%20DE%20ALERTAS.PNG) |
+| Dashboard com dados em tempo real | Gráfico histórico de medições | Sistema de notificações e alertas |
 
-| Alertas | Manutenções | Registrar Manutenção |
+| Manutenções | Registrar Manutenção | Sobre Nós |
 |:---:|:---:|:---:|
-| ![Alertas](./screenshots/07_alertas.png) | ![Manutenções](./screenshots/08_manutencoes.png) | ![Registrar](./screenshots/09_registrar_manutencao.png) |
-| Sistema de notificações e alertas | Histórico de manutenções realizadas | Formulário para registrar manutenção |
+| ![Manutenções](./screenshots/TELA%20DE%20MANUTENCAO.PNG) | ![Registrar](./screenshots/TELA%20DE%20REGISTRAR%20DE%20MANUTENCAO.PNG) | ![Sobre Nós](./screenshots/SOBRE%20NOS.PNG) |
+| Histórico de manutenções realizadas | Formulário para registrar manutenção | Informações sobre a aplicação |
 
 ---
 
