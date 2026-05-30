@@ -292,7 +292,7 @@ flutter run
 
 
 ## 🙏 Agradecimentos
-
+- Deus
 - Flutter Team
 - Firebase
 - Comunidade Flutter
